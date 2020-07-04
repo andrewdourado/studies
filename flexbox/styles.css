@@ -1,0 +1,34 @@
+html, body, #app {
+    height: 100%;
+    margin: 0;
+}
+
+#app {
+    display: flex;
+    flex-wrap: wrap;
+
+    align-items: center;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.box {
+    width: 250px;
+    height: 60px;
+    background: #f00;
+    margin: 5px;
+}
+
+.red {
+    order: 2;
+}
+
+.green {
+    background: #0f0;
+    order: 1;
+}
+
+.blue {
+    background: #00f;
+    order: 0;
+}
