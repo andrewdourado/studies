@@ -1,6 +1,0 @@
-[submodule "huntweb"]
-	path = huntweb
-	url = ./huntweb
-[submodule "node-api-rocketseat"]
-	path = node-api-rocketseat
-	url = ./node-api-rocketseat
